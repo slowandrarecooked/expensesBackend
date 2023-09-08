@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "asd",
+      "email": "asd@asd.com",
+      "password": "asd"
+    },
+    {
+      "name": "asd",
+      "email": "airbendervineeth@gmail.com",
+      "password": "asd",
+      "id": 2
+    },
+    {
+      "name": "zxcz",
+      "email": "airbendervineeth@gmail.com",
+      "password": "asd",
+      "id": 3
+    },
+    {
+      "name": "ghj",
+      "email": "airbendervineeth@gmail.com",
+      "password": "asd",
+      "id": 4
+    }
+  ],
+  "trackers": [
+    {
+      "date": "2023-09-19",
+      "tag": "Income",
+      "expense": "bills",
+      "income": "salary",
+      "value": "1000000",
+      "id": 1
+    },
+    {
+      "date": "2023-09-07",
+      "tag": "Income",
+      "expense": "bills",
+      "income": "Refunds",
+      "value": "55555",
+      "id": 2
+    }
+  ]
+}
